@@ -15,6 +15,7 @@ Data Science student passionate about Python, SQL, Power BI, Machine Learning, a
 
 ### **Database**
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 - ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### **Tools & VCS**
@@ -26,7 +27,7 @@ Data Science student passionate about Python, SQL, Power BI, Machine Learning, a
 
 ## 📊 GitHub Statistics
 
-- **Public Repositories:** 9
+- **Public Repositories:** 10 section 
 - **Primary Languages:** Python (52.5%), C++, Java
 
 ## 📞 Contact & Connect
