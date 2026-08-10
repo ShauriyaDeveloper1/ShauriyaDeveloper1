@@ -27,8 +27,8 @@ Data Science student passionate about Python, SQL, Power BI, Machine Learning, a
 
 ## 📊 GitHub Statistics
 
-- **Public Repositories:** 10 section 
-- **Primary Languages:** Python (52.5%), C++, Java
+- **Public Repositories:** 10
+- **Primary Languages:** Python, C++, Java
 
 ## 📞 Contact & Connect
 
@@ -36,9 +36,8 @@ Data Science student passionate about Python, SQL, Power BI, Machine Learning, a
 - **GitHub:** [ShauriyaDeveloper1](https://github.com/ShauriyaDeveloper1)
 - **Portfolio:** [shauriya-garg-port-folio.vercel.app](https://shauriya-garg-port-folio.vercel.app/)
 - **LeetCode:** [Shauriya_Garg](https://leetcode.com/u/Shauriya_Garg/)
-- **Location:** 🇮🇳 India
+- **Location:** India
 
 ---
 
-**Last Updated:** June 22, 2026  
 *Continuously learning and building innovative AI/ML solutions*
