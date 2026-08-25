@@ -1,4 +1,4 @@
-# 👨‍💻 Shauriya Garg - Data Science,AI/ML Developer
+# 👨‍💻 Shauriya Garg - Data Science, AI/ML Developer
 
 **Location:** 🇮🇳 India
 
@@ -28,7 +28,8 @@ Data Science student passionate about Python, SQL, Power BI, Machine Learning, a
 ## 📊 GitHub Statistics
 
 - **Public Repositories:** 10
-- **Primary Languages:** Python, C++, Java
+- **Open Source Projects:** 2
+- **Primary Languages:** Python, C++
 
 ## 📞 Contact & Connect
 
