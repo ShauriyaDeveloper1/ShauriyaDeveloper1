@@ -9,9 +9,7 @@ Data Science student passionate about Python, SQL, Power BI, Machine Learning, a
 ## 💻 Tech Stack
 
 ### **Languages**
-- ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### **Database**
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,9 +25,8 @@ Data Science student passionate about Python, SQL, Power BI, Machine Learning, a
 
 ## 📊 GitHub Statistics
 
-- **Public Repositories:** 10
+- **Public Repositories:** 12
 - **Open Source Projects:** 2
-- **Primary Languages:** Python, C++
 
 ## 📞 Contact & Connect
 
