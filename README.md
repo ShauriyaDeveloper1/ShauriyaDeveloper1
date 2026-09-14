@@ -55,14 +55,6 @@ I enjoy building practical, real-world projects and continuously learning new te
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShauriyaDeveloper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🚀 Featured Focus Areas
 
 - Data Science
