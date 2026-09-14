@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Shauriya%20Garg&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Shauriya%20Garg&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 <p align="center">
@@ -58,8 +58,7 @@ I enjoy building practical, real-world projects and continuously learning new te
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShauriyaDeveloper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauriyaDeveloper1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShauriyaDeveloper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 ---
