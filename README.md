@@ -10,7 +10,6 @@
   <a href="https://github.com/ShauriyaDeveloper1?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge" alt="Public Repositories" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ShauriyaDeveloper1&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -44,7 +43,7 @@ I enjoy building practical, real-world projects and continuously learning new te
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-### Tools & VCS
+### Tools & Platform
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
