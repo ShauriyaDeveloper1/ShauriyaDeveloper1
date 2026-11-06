@@ -45,14 +45,14 @@
 - Forecasting network latency and identifying abnormal network behaviour.
 - Combining statistical forecasting, anomaly detection, and dashboards.
 
-**Technologies:** Python, AutoTS, ARIMA/SARIMA, Isolation Forest, Streamlit
+**Technologies:** Python, AutoTS, ARIMA/SARIMA, Isolation Forest, Render
 
 ### 3. Voice Shield – AI-Powered Voice Security
 - Developed a project focused on voice-based security and protection.
 - Add the specific detection or classification capabilities implemented in your project.
 - Include a demo or architecture diagram to demonstrate its functionality.
 
-**Technologies:** Add the actual libraries, models, and frameworks used in Voice Shield.
+**Technologies:** ython, PyTorch, AASIST, Hugging Face, XLM-RoBERTa, Scikit-learn, Render, Android
 
 ## 🛠️ Technical Skills
 
