@@ -34,11 +34,10 @@
 ## 🚀 Featured Projects
 
 ### 1. AI-Powered Interview Coach
-- Developed an AI-powered interview preparation application.
-- Explored LLMs, Retrieval-Augmented Generation (RAG), and reinforcement learning.
-- Integrated OpenEnv-based workflows.
+-Built and deployed a full-stack AI interview platform supporting text, audio, and video mock interviews, automated evaluation, personalized feedback, and performance analytics.
+-Integrated an OpenEnv-compliant reinforcement learning environment for adaptive interview workflows and an ATS-based resume analysis pipeline for personalized coaching.
 
-**Technologies:** Python, LLMs, RAG, Reinforcement Learning
+**Technologies:** Python, Flask, PyTorch, Scikit-learn, NLTK, OpenCV, Pandas, Matplotlib, JavaScript, Chart.js, OpenEnv
 
 ### 2. NetworkPulse – Network Anomaly Detection & Forecasting
 - Developing a time-series-based network monitoring system.
@@ -48,9 +47,8 @@
 **Technologies:** Python, AutoTS, ARIMA/SARIMA, Isolation Forest, Render
 
 ### 3. Voice Shield – AI-Powered Voice Security
-- Developed a project focused on voice-based security and protection.
-- Add the specific detection or classification capabilities implemented in your project.
-- Include a demo or architecture diagram to demonstrate its functionality.
+-Developed an end-to-end AI voice analysis system for deepfake and scam detection using AASIST-based audio classification,speaker verification, and multilingual speech analysis.
+-Deployed backend services on Render and ML inference on HuggingFace, integrating the deployed system into an Android APK.
 
 **Technologies:** ython, PyTorch, AASIST, Hugging Face, XLM-RoBERTa, Scikit-learn, Render, Android
 
