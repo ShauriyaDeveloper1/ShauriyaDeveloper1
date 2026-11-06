@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ShauriyaDeveloper1?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge" alt="Public Repositories" />
+    <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge" alt="Public Repositories" />
   </a>
 </p>
 
