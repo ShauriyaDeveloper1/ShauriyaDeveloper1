@@ -65,7 +65,6 @@ If you're interested in software, applied AI, data products, or building somethi
   <a href="https://www.linkedin.com/in/shauriya-garg-746524322/">LinkedIn</a> ·
   <a href="https://shauriya-garg-port-folio.vercel.app/">Portfolio</a> ·
   <a href="https://leetcode.com/u/Shauriya_Garg/">LeetCode</a>
-  <a href="mailto:shauriyagarg24@gmail.com">Email</a>
 </div>
 
 <div align="center">
