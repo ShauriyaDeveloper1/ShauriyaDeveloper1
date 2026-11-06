@@ -1,89 +1,74 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Shauriya%20Garg&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%7C+AI%2FML+Developer&center=true&width=800&height=50" alt="Typing SVG" />
-</p>
+# Hi, I'm Shauriya Garg 👋
 
-<p align="center">
-  <a href="https://github.com/ShauriyaDeveloper1?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge" alt="Public Repositories" />
-  </a>
-</p>
+### Software Developer · AI/ML Engineer · Data & Product Builder
 
----
-
-## 📌 About Me
-
-I’m a Data Science student passionate about **Python, SQL, Power BI, Machine Learning, and Software Development**.  
-I enjoy building practical, real-world projects and continuously learning new technologies to solve meaningful problems.
-
-> "Learning every day, building every day."
-
-- 🎯 Currently focused on Data Science and AI/ML
-- 📊 Interested in analytics, dashboards, and data-driven decisions
-- 🚀 Building projects that combine software and machine learning
-- 🌱 Always learning and improving my technical skills
-
----
-
-## 💻 Tech Stack
-
-### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  I build practical software and intelligent systems that turn real-world problems into useful, measurable products.
 </p>
 
-### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <a href="https://github.com/ShauriyaDeveloper1?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://shauriya-garg-port-folio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shauriya-garg-746524322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### Tools & Platform
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:06B6D4&height=120&section=footer" alt="Decorative banner" />
+
+</div>
+
+## About me
+
+I'm a developer from India who enjoys working across the software and AI lifecycle — from problem discovery and data analysis to model development, APIs, dashboards, and user-facing applications.
+
+- Building end-to-end projects with **Python, machine learning, web technologies, and data platforms**
+- Interested in **applied AI, intelligent automation, computer vision, NLP, analytics, and scalable software**
+- Focused on writing clear code, learning continuously, and shipping solutions with real-world value
+- Open to opportunities where software, data, and AI can create meaningful impact
+
+> **Learn continuously. Build thoughtfully. Improve relentlessly.**
+
+## Featured projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [**AI-Powered Interview Coach**](https://github.com/ShauriyaDeveloper1/AI-Powered-Interview-Coach) | Reinforcement learning, OpenEnv, NLP, speech analysis, posture tracking, and adaptive feedback |
+| [**NetworkPulse**](https://github.com/ShauriyaDeveloper1/NetworkPulse) | UAV network observability, RTT forecasting, anomaly detection, Flask, and real-time dashboards |
+| [**Community Hero**](https://github.com/ShauriyaDeveloper1/Community-Hero-Hyperlocal-Problem-Saver) | AI-assisted civic issue reporting using images/video and a practical user workflow |
+| [**Business Intelligence Prediction Platform**](https://github.com/ShauriyaDeveloper1/AI-Powered-Business-Intelligence-Prediction-Platform) | Data-driven insights, prediction workflows, and business-focused analytics |
+| [**Machine Monitoring System**](https://github.com/ShauriyaDeveloper1/Machine-Monitoring-system) | Sensor analytics, anomaly detection, Flask, and interactive monitoring |
+| [**SMS Spam Detector**](https://github.com/ShauriyaDeveloper1/SMS-Spam-Detector) | NLP classification, feature engineering, and an accessible prediction experience |
+
+## Technical toolkit
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,flask,mysql,firebase,git,github,vscode" alt="Technology stack" />
 </p>
 
----
+**AI & data:** Machine Learning · NLP · Computer Vision · Reinforcement Learning · Anomaly Detection · Pandas · NumPy · scikit-learn · Power BI  
+**Engineering:** REST APIs · Flask · React · JavaScript · TypeScript · SQL · Git · GitHub · Responsive UI  
+**Approach:** Problem solving · Clean, maintainable code · Data-driven decisions · Iterative product development
 
-## 🚀 Featured Focus Areas
+## GitHub at a glance
 
-- Data Science
-- Machine Learning
-- AI Projects
-- Data Visualization
-- Full-stack / Software Development
-- Problem Solving
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShauriyaDeveloper1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauriyaDeveloper1&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
 
----
+## Let's connect
 
-## 📞 Contact & Connect
+If you're interested in software, applied AI, data products, or building something useful together, feel free to connect.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shauriya-garg-746524322/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ShauriyaDeveloper1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://shauriya-garg-port-folio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/u/Shauriya_Garg/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/shauriya-garg-746524322/">LinkedIn</a> ·
+  <a href="https://shauriya-garg-port-folio.vercel.app/">Portfolio</a> ·
+  <a href="https://leetcode.com/u/Shauriya_Garg/">LeetCode</a> ·
+  <a href="mailto:shauriyagarg24@gmail.com">Email</a>
+</div>
 
----
-
-<p align="center">
-  <i>Continuously learning and building innovative AI/ML solutions.</i>
-</p>
+<div align="center">
+  <br />
+  <i>Building at the intersection of software, data, and intelligence.</i>
+</div>
