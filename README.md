@@ -48,7 +48,7 @@
 - Developed an end-to-end AI voice analysis system for deepfake and scam detection using AASIST-based audio classification,speaker verification, and multilingual speech analysis.
 - Deployed backend services on Render and ML inference on HuggingFace, integrating the deployed system into an Android APK.
 
-**Technologies:** ython, PyTorch, AASIST, Hugging Face, XLM-RoBERTa, Scikit-learn, Render, Android
+**Technologies:** Python, PyTorch, AASIST, Hugging Face, XLM-RoBERTa, Scikit-learn, Render, Android
 
 ## 🛠️ Technical Skills
 
